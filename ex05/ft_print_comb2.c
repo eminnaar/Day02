@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
 void ft_print_comb2(void);
 
 void ft_putchar(char c)
@@ -51,10 +49,4 @@ void ft_print_comb2(void)
 		xa++;
 		ya = '0';
 	}
-}
-
-int		main(void)
-{
-	ft_print_comb2();
-	return (0);
 }
