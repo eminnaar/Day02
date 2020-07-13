@@ -10,8 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
-
 void ft_print_comb(void);
 
 void ft_print_numbers(char a, char b, char c) 
